@@ -1,5 +1,3 @@
-# ikhsan.github.io
-baru belajar github
 <!DOCTYPE html>
 <html>
 <head>
